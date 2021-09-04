@@ -1,10 +1,11 @@
-## nano-neuron (GO)
+# nano-neuron (GO)
 
 Go adaptation of the [nano-neuron code](https://github.com/trekhleb/nano-neuron/blob/master/NanoNeuron.js) (originally in JS).
 
 Full explanation in [nano-neuron](https://github.com/trekhleb/nano-neuron)
 
 Sample run:
+
 ```bash
 $ go run nano-neuron.go
 Cost before the training: 4665.90800179915
